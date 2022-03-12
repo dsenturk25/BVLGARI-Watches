@@ -1,6 +1,6 @@
-# api_operations
+# BVLGARI Watches
 
-A new Flutter project.
+My first flutter project that communicates with server and includes authentication.
 
 ## Getting Started
 
